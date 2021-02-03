@@ -35,11 +35,11 @@ scvi-tools_ (single-cell variational inference tools) is a package for probabili
 Second, scvi-tools contains the building blocks to build novel probablistic models. These building blocks are powered by popular probabilistic and machine learning frameworks such as `PyTorch
 <https://pytorch.org>`_, `PyTorch lightning <https://www.pytorchlightning.ai/>`_, and `Pyro <https://pyro.ai/>`_.
 
-Tutorials, API reference, and installation guides are available in the documentation_.
-For discussion of usage, checkout out our `forum`_.
-Please use the issues here to submit bug reports.
-If you'd like to contribute, check out our `development guide`_.
-If you find a model useful for your research, please consider citing the corresponding publication (linked above).
+* Tutorials, API reference, and installation guides are available in the documentation_.
+* For discussion of usage, checkout out our `forum`_.
+* Please use the issues here to submit bug reports.
+* If you'd like to contribute, check out our `development guide`_.
+* If you find a model useful for your research, please consider citing the corresponding publication (linked above).
 
 .. _scvi-tools: https://scvi-tools.org/
 .. _documentation: https://scvi-tools.org/
